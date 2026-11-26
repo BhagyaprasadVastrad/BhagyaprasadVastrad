@@ -49,7 +49,7 @@ A selection of projects demonstrating business-facing analytics and applied rese
 
 I welcome conversations with analytics teams, consulting organisations, and research groups working on business intelligence, data-driven decision-making, and trustworthy applied AI.
 
-- **Portfolio:** [Link]([https://bhagyaprasadportfolio.netlify.app/](https://drive.google.com/file/d/1RUn5CFb7OeCILc6ssM7oQikgPZib0-06/view?usp=drive_link))
+- **Portfolio:** ([Link](https://drive.google.com/file/d/1RUn5CFb7OeCILc6ssM7oQikgPZib0-06/view?usp=drive_link))
 - **LinkedIn:** [Bhagyaprasad Vastrad](https://www.linkedin.com/in/bhagyaprasadvastrad/)
 - **GitHub:** [BhagyaprasadVastrad](https://github.com/BhagyaprasadVastrad)
 
