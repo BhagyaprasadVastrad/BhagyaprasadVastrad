@@ -43,7 +43,10 @@ A selection of projects demonstrating business-facing analytics and applied rese
 - **Experience:** 3 years across business intelligence, data analytics, and enterprise data environments.
 - **Education:** Master of Science in Data Analytics, Queen’s University Belfast, United Kingdom.
 - **Undergraduate:** Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University, India.
-- **Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
+- **Certifications:**
+  - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+  - Alteryx Designer Core Certification
+  - Databricks Accredited: Databricks Fundamentals
 
 ## Connect
 
