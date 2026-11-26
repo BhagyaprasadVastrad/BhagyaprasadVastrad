@@ -41,7 +41,7 @@ A selection of projects demonstrating business-facing analytics and applied rese
 ## Professional background
 
 - **Experience:** 3 years across business intelligence, data analytics, and enterprise data environments.
-- **Education:** PGCert (Level 7) Data Analytics, Queen’s University Belfast, United Kingdom.
+- **Education:** Master of Science in Data Analytics, Queen’s University Belfast, United Kingdom.
 - **Undergraduate:** Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University, India.
 - **Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
