@@ -6,8 +6,8 @@ I turn complex data into clear business decisions. My work spans business intell
 
 I bring together two complementary areas of practice:
 
-- **Business intelligence and decision analytics** — developing Power BI reporting, analytical models, data transformations, and performance insights that help teams understand what is happening and where to act.
-- **Applied machine learning and trustworthy AI** — evaluating model performance, reliability, calibration, and uncertainty, including work with medical-imaging datasets.
+- **Business intelligence and decision analytics** - developing Power BI reporting, analytical models, data transformations, and performance insights that help teams understand what is happening and where to act.
+- **Applied machine learning and trustworthy AI** - evaluating model performance, reliability, calibration, and uncertainty, including work with medical-imaging datasets.
 
 ---
 
